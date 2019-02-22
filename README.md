@@ -5,6 +5,8 @@ so that i choose my carrer as the android developer.
 
 now I'm currently pusuing my degree at K.L.N.college of information technology, current im in 3rd year B.Tech IT  
 
+![image](https://avatars0.githubusercontent.com/u/40862674?s=400&u=10cd64f070b51ed2f6bdb6adf0fda17ba4092a47&v=4)
+
 You can use the [editor on GitHub](https://github.com/AnandhkumarTV/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
