@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
+
+My name T.V.Anandhkumar and I'm very passionate about developing **Android Apps** 
+so that i choose my carrer as the android developer.
+
+now I'm currently pusuing my degree at K.L.N.college of information technology, current im in 3rd year B.Tech IT  
 
 You can use the [editor on GitHub](https://github.com/AnandhkumarTV/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
